@@ -1,19 +1,10 @@
-let fruitName1: string = "banana";
-let fruitName2: string = "mango";
-function printProduct(name:string):void {
-    console.log("Product: "+name);
+let fruitName: string = "mango";
+function favFruit(name:string):void {
+    console.log("My favourite fruit is "+name);
 }
-printProduct(fruitName1);
-printProduct(fruitName2);
-//this will print the product name
+favFruit(fruitName);
 
-class Store{
-    open():void {
-        console.log("The shop is open");
-    }
-}
-let store = new Store();
-store.open();
+//this will print the name of the favourite fruit
 let a : number = 5;
 function doubleValue(num: number):void {
     num = num * 2;
