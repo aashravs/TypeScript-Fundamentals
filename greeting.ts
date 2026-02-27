@@ -9,7 +9,7 @@ console.log("My name is "+message+" and I am "+age);
 
 //This print my name and age in the console
 
-let phonenum : number = 23;
+let phonenum : string = 23;
 
 console.log("My phone number is "+phonenum);
 
