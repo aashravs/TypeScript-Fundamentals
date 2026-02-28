@@ -1,3 +1,4 @@
+//2nd Case Study
 let fruitName: string = "mango";
 function favFruit(name:string):void {
     console.log("My favourite fruit is "+name);

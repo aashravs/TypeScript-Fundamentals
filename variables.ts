@@ -1,3 +1,4 @@
+//3rd Case Study
 var city:string = "Bengaluru";
 var temperature : number = 25;
 var isRaining = true;
