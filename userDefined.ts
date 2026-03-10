@@ -1,3 +1,4 @@
+//7th case study
 enum Role{Doctor, Admin, Nurse}
 interface Staff{
     id : string,
