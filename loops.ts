@@ -1,3 +1,4 @@
+//11th case study
 type Transaction = {
   id: number;
   type: "checkout" | "return" | "cancelled" | "priority";

@@ -1,3 +1,4 @@
+//10th case study
 function checkSign(num: number): void {
   if (num > 0) {
     console.log("Number is positive");
