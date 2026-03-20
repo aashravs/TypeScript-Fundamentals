@@ -1,3 +1,4 @@
+//16th case study
 interface Observer {
   update(msg: string): void;
 }
